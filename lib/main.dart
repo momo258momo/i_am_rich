@@ -8,7 +8,7 @@ void main() {
         backgroundColor: Colors.grey.shade300,
         appBar: AppBar(
           title: const Text("I am Rich"),
-          backgroundColor: Colors.orange,
+          backgroundColor: Colors.blue,
           centerTitle: true,
           leading: Icon(Icons.arrow_back_ios),
         ),
