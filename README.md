@@ -1,16 +1,23 @@
 # i_am_rich
 
-A new Flutter project.
+# Dự án Flutter - Hồ Sơ Cá Nhân
 
-## Getting Started
+Dự án này là một ứng dụng Flutter đơn giản để hiển thị thông tin hồ sơ cá nhân của Lê Thị Mơ.
 
-This project is a starting point for a Flutter application.
+## Mô tả
 
-A few resources to get you started if this is your first Flutter project:
+Ứng dụng này hiển thị hình ảnh đại diện, tên và thông tin liên lạc của Lê Thị Mơ. Giao diện được thiết kế thân thiện và dễ sử dụng, sử dụng các widget cơ bản của Flutter như `CircleAvatar`, `Text`, và `Card`.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Cấu trúc dự án
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **main.dart**: Tệp chính của ứng dụng, nơi các widget được xây dựng và hiển thị.
+- **image/profile_pic.jpg**: Hình ảnh đại diện của người dùng.
+
+## Cách chạy ứng dụng
+
+1. **Cài đặt Flutter**: Đảm bảo rằng bạn đã cài đặt Flutter trên máy tính của mình. Bạn có thể tham khảo [hướng dẫn cài đặt Flutter](https://flutter.dev/docs/get-started/install).
+
+2. **Tải xuống mã nguồn**:
+   ```bash
+   git clone https://github.com/momo258momo/lap2_mi_card.git
+   cd lap2_mi_card
