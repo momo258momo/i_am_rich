@@ -11,8 +11,3 @@ Dự án "I Am Rich" trong Flutter là một ứng dụng đơn giản hiển th
 
 ## Demo
 ![Demo ứng dụng](asset/image/demo.png)
-
-## Cấu trúc dự án
-
-- **main.dart**: Tệp chính của ứng dụng, nơi các widget được xây dựng và hiển thị.
-- **asset/image/demo.png**: Hình ảnh hiển thị trong ứng dụng.
