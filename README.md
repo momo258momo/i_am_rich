@@ -1,16 +1,18 @@
-# i_am_rich
+# I Am Rich
 
-A new Flutter project.
+## Giới thiệu
+Dự án "I Am Rich" trong Flutter là một ứng dụng đơn giản hiển thị một hình ảnh và văn bản "I Am Rich" trên màn hình.
 
-## Getting Started
+## Nội dung tìm hiểu
+- Sử dụng các widget cơ bản trong Flutter như `Text` và `Image`.
 
-This project is a starting point for a Flutter application.
+## Chức năng
+- Hiển thị một hình ảnh và văn bản "I Am Rich" trên màn hình.
 
-A few resources to get you started if this is your first Flutter project:
+## Demo
+![Demo ứng dụng](asset/image/demo.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Cấu trúc dự án
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **main.dart**: Tệp chính của ứng dụng, nơi các widget được xây dựng và hiển thị.
+- **asset/image/demo.png**: Hình ảnh hiển thị trong ứng dụng.
