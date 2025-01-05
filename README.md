@@ -1,6 +1,5 @@
 # I Am Rich
 
-<<<<<<< HEAD
 ## Giới thiệu
 Dự án "I Am Rich" trong Flutter là một ứng dụng đơn giản hiển thị một hình ảnh và văn bản "I Am Rich" trên màn hình.
 
